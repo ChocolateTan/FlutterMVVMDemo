@@ -1,0 +1,12 @@
+@startmindmap
+* iiiiMusicTV
+left side
+**:free music api
+https://www.last.fm/api/show/chart.getTopArtists;
+https://phish.in/api-docs?ref=public_apis
+
+**:free icon
+https://fonts.google.com/icons;
+
+right side
+@endmindmap
